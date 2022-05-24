@@ -1,0 +1,88 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Enemy
+  - Key
+  - Jail
+  - HealPickUp
+  - Bullet
+  - powerPickup
+  - powerPickupBroc
+  - powerPickupSoda
+  - background
+  - Boss
+  - masterHand
+  - Floor
+  - Player 2
+  - dead
+  - CountManager
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Player 1
+  - Player 2
+  - Bullet2
+  - Key
+  - Ratoncito
+  - MasterHand
+  - BolitadeFuego
+  - Enemy
+  - mis
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 955235457
+    locked: 0
+  - name: Bushes
+    uniqueID: 3171091831
+    locked: 0
+  - name: columnas
+    uniqueID: 1394536959
+    locked: 0
+  - name: Grass
+    uniqueID: 1719010671
+    locked: 0
+  - name: Floor2
+    uniqueID: 1531765427
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Player
+    uniqueID: 3259366779
+    locked: 0
+  - name: Bad guys
+    uniqueID: 1182943627
+    locked: 0
+  - name: s
+    uniqueID: 4147813123
+    locked: 0
+  - name: sillitas
+    uniqueID: 3222512373
+    locked: 0
+  - name: "transici\xF3n"
+    uniqueID: 4029316193
+    locked: 0

@@ -1,0 +1,583 @@
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/Assembly-CSharp.dll
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/Assembly-CSharp.pdb
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/Boo.Lang.dll
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/mscorlib.dll
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/System.Core.dll
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/System.dll
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/System.Runtime.Serialization.dll
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/System.Xml.dll
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/System.Xml.Linq.dll
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/Unity.Locator.dll
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/Unity.PackageManagerUI.Editor.dll
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/Unity.TextMeshPro.dll
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/Unity.TextMeshPro.Editor.dll
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEditor.dll
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEditor.StandardEvents.dll
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.AccessibilityModule.dll
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.AIModule.dll
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.Analytics.dll
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.AnimationModule.dll
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.ARModule.dll
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.AssetBundleModule.dll
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.AudioModule.dll
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.BaselibModule.dll
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.ClothModule.dll
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.CloudWebServicesModule.dll
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.ClusterInputModule.dll
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.ClusterRendererModule.dll
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.CoreModule.dll
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.CrashReportingModule.dll
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.DirectorModule.dll
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.dll
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.FacebookModule.dll
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.FileSystemHttpModule.dll
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.GameCenterModule.dll
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.dll
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.GridModule.dll
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.HoloLens.dll
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.HotReloadModule.dll
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.ImageConversionModule.dll
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.IMGUIModule.dll
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.InputModule.dll
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.JSONSerializeModule.dll
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.LocalizationModule.dll
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.Networking.dll
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.ParticlesLegacyModule.dll
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.ParticleSystemModule.dll
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.PerformanceReportingModule.dll
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.Physics2DModule.dll
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.PhysicsModule.dll
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.ProfilerModule.dll
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.ScreenCaptureModule.dll
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.SharedInternalsModule.dll
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.SpatialTracking.dll
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.SpriteMaskModule.dll
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.SpriteShapeModule.dll
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.StandardEvents.dll
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.StreamingModule.dll
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.StyleSheetsModule.dll
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.SubstanceModule.dll
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.TerrainModule.dll
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.TerrainPhysicsModule.dll
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.TextRenderingModule.dll
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.TilemapModule.dll
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.Timeline.dll
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.TimelineModule.dll
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.TLSModule.dll
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.UI.dll
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.UIElementsModule.dll
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.UIModule.dll
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.UmbraModule.dll
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.UNETModule.dll
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.UnityAnalyticsModule.dll
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.UnityConnectModule.dll
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.UnityWebRequestAssetBundleModule.dll
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule.dll
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.UnityWebRequestModule.dll
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.UnityWebRequestTextureModule.dll
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.UnityWebRequestWWWModule.dll
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.VehiclesModule.dll
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.VideoModule.dll
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.VRModule.dll
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.WindModule.dll
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.XRModule.dll
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityScript.dll
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityScript.Lang.dll
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/Unity.Cecil.dll
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/Unity.SerializationLogic.dll
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/Unity.DataContract.dll
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/ExCSS.Unity.dll
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/Unity.Legacy.NRefactory.dll
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/Boo.Lang.Parser.dll
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/Boo.Lang.Compiler.dll
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/Unity.IvyParser.dll
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/Boo.Lang.PatternMatching.dll
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/Boo.Lang.Useful.dll
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/Unity.CecilTools.dll
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.xml
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEditor.xml
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.AIModule.xml
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.ARModule.xml
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.AccessibilityModule.xml
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.AnimationModule.xml
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.AssetBundleModule.xml
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.AudioModule.xml
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.BaselibModule.xml
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.ClothModule.xml
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.CloudWebServicesModule.xml
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.ClusterInputModule.xml
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.ClusterRendererModule.xml
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.CoreModule.xml
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.CrashReportingModule.xml
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.DirectorModule.xml
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.FacebookModule.xml
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.FileSystemHttpModule.xml
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.GameCenterModule.xml
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.GridModule.xml
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.HotReloadModule.xml
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.IMGUIModule.xml
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.ImageConversionModule.xml
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.InputModule.xml
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.JSONSerializeModule.xml
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.LocalizationModule.xml
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.ParticleSystemModule.xml
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.ParticlesLegacyModule.xml
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.PerformanceReportingModule.xml
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.PhysicsModule.xml
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.Physics2DModule.xml
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.ProfilerModule.xml
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.ScreenCaptureModule.xml
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.SharedInternalsModule.xml
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.SpriteMaskModule.xml
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.SpriteShapeModule.xml
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.StreamingModule.xml
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.StyleSheetsModule.xml
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.SubstanceModule.xml
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.TLSModule.xml
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.TerrainModule.xml
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.TerrainPhysicsModule.xml
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.TextRenderingModule.xml
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.TilemapModule.xml
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.TimelineModule.xml
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.UIModule.xml
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.UIElementsModule.xml
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.UNETModule.xml
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.UmbraModule.xml
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.UnityAnalyticsModule.xml
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.UnityConnectModule.xml
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.UnityWebRequestModule.xml
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.UnityWebRequestAssetBundleModule.xml
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule.xml
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.UnityWebRequestTextureModule.xml
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.UnityWebRequestWWWModule.xml
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.VRModule.xml
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.VehiclesModule.xml
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.VideoModule.xml
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.WindModule.xml
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.XRModule.xml
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.UI.xml
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.Timeline.xml
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.Networking.xml
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.xml
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.HoloLens.xml
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.SpatialTracking.xml
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/obj/Debug/Assembly-CSharp.csprojAssemblyReference.cache
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/obj/Debug/Assembly-CSharp.csproj.CopyComplete
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/obj/Debug/Assembly-CSharp.dll
+C:/Users/Raul/Documents/Unity Projects/Animal Soul Prototype/obj/Debug/Assembly-CSharp.pdb
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/obj/Debug/Assembly-CSharp.csprojResolveAssemblyReference.cache
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/obj/Debug/Assembly-CSharp.csproj.CoreCompileInputs.cache
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/obj/Debug/Assembly-CSharp.dll
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/obj/Debug/Assembly-CSharp.pdb
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/Assembly-CSharp.pdb
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/Boo.Lang.dll
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/mscorlib.dll
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/System.Core.dll
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/System.dll
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/System.Runtime.Serialization.dll
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/System.Xml.dll
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/System.Xml.Linq.dll
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/Unity.Locator.dll
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/Unity.PackageManagerUI.Editor.dll
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/Unity.TextMeshPro.dll
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/Unity.TextMeshPro.Editor.dll
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEditor.dll
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEditor.StandardEvents.dll
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.AccessibilityModule.dll
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.AIModule.dll
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.AnimationModule.dll
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.ARModule.dll
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.AssetBundleModule.dll
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.AudioModule.dll
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.BaselibModule.dll
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.ClothModule.dll
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.CloudWebServicesModule.dll
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.ClusterInputModule.dll
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.ClusterRendererModule.dll
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.CoreModule.dll
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.CrashReportingModule.dll
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.DirectorModule.dll
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.dll
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.FacebookModule.dll
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.FileSystemHttpModule.dll
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.GameCenterModule.dll
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.dll
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.GridModule.dll
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.HotReloadModule.dll
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.ImageConversionModule.dll
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.IMGUIModule.dll
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.InputModule.dll
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.JSONSerializeModule.dll
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.LocalizationModule.dll
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.ParticlesLegacyModule.dll
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.ParticleSystemModule.dll
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.PerformanceReportingModule.dll
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.Physics2DModule.dll
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.PhysicsModule.dll
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.ProfilerModule.dll
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.ScreenCaptureModule.dll
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.SharedInternalsModule.dll
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.SpatialTracking.dll
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.SpriteMaskModule.dll
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.SpriteShapeModule.dll
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.StandardEvents.dll
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.StreamingModule.dll
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.StyleSheetsModule.dll
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.SubstanceModule.dll
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.TerrainModule.dll
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.TerrainPhysicsModule.dll
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.TextRenderingModule.dll
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.TilemapModule.dll
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.Timeline.dll
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.TimelineModule.dll
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.TLSModule.dll
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.UIElementsModule.dll
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.UIModule.dll
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.UmbraModule.dll
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.UNETModule.dll
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.UnityAnalyticsModule.dll
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.UnityConnectModule.dll
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.UnityWebRequestAssetBundleModule.dll
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule.dll
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.UnityWebRequestModule.dll
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.UnityWebRequestTextureModule.dll
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.UnityWebRequestWWWModule.dll
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.VehiclesModule.dll
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.VideoModule.dll
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.VRModule.dll
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.WindModule.dll
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.XRModule.dll
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityScript.dll
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityScript.Lang.dll
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/Unity.Cecil.dll
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/Unity.DataContract.dll
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/ExCSS.Unity.dll
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/Unity.Legacy.NRefactory.dll
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/Boo.Lang.Parser.dll
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/Boo.Lang.Compiler.dll
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/Unity.IvyParser.dll
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/Mono.Security.dll
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/Boo.Lang.PatternMatching.dll
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/Boo.Lang.Useful.dll
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/Unity.Cecil.Pdb.dll
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/Unity.Cecil.Mdb.dll
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.dll.mdb
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.xml
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEditor.dll.mdb
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEditor.xml
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEditor.StandardEvents.dll.mdb
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/Unity.TextMeshPro.Editor.dll.mdb
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/Unity.PackageManagerUI.Editor.dll.mdb
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/Unity.TextMeshPro.dll.mdb
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.AIModule.dll.mdb
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.AIModule.xml
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.ARModule.dll.mdb
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.ARModule.xml
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.AccessibilityModule.dll.mdb
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.AccessibilityModule.xml
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.AnimationModule.dll.mdb
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.AnimationModule.xml
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.AssetBundleModule.dll.mdb
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.AssetBundleModule.xml
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.AudioModule.dll.mdb
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.AudioModule.xml
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.BaselibModule.dll.mdb
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.BaselibModule.xml
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.ClothModule.dll.mdb
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.ClothModule.xml
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.CloudWebServicesModule.dll.mdb
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.CloudWebServicesModule.xml
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.ClusterInputModule.dll.mdb
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.ClusterInputModule.xml
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.ClusterRendererModule.dll.mdb
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.ClusterRendererModule.xml
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.CoreModule.dll.mdb
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.CoreModule.xml
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.CrashReportingModule.dll.mdb
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.CrashReportingModule.xml
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.DirectorModule.dll.mdb
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.DirectorModule.xml
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.FacebookModule.dll.mdb
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.FacebookModule.xml
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.FileSystemHttpModule.dll.mdb
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.FileSystemHttpModule.xml
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.GameCenterModule.dll.mdb
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.GameCenterModule.xml
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.GridModule.dll.mdb
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.GridModule.xml
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.HotReloadModule.dll.mdb
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.HotReloadModule.xml
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.IMGUIModule.dll.mdb
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.IMGUIModule.xml
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.ImageConversionModule.dll.mdb
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.ImageConversionModule.xml
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.InputModule.dll.mdb
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.InputModule.xml
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.JSONSerializeModule.dll.mdb
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.JSONSerializeModule.xml
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.LocalizationModule.dll.mdb
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.LocalizationModule.xml
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.ParticleSystemModule.dll.mdb
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.ParticleSystemModule.xml
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.ParticlesLegacyModule.dll.mdb
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.ParticlesLegacyModule.xml
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.PerformanceReportingModule.dll.mdb
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.PerformanceReportingModule.xml
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.PhysicsModule.dll.mdb
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.PhysicsModule.xml
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.Physics2DModule.dll.mdb
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.Physics2DModule.xml
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.ProfilerModule.dll.mdb
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.ProfilerModule.xml
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.ScreenCaptureModule.dll.mdb
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.ScreenCaptureModule.xml
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.SharedInternalsModule.dll.mdb
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.SharedInternalsModule.xml
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.SpriteMaskModule.dll.mdb
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.SpriteMaskModule.xml
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.SpriteShapeModule.dll.mdb
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.SpriteShapeModule.xml
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.StreamingModule.dll.mdb
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.StreamingModule.xml
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.StyleSheetsModule.dll.mdb
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.StyleSheetsModule.xml
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.SubstanceModule.dll.mdb
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.SubstanceModule.xml
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.TLSModule.dll.mdb
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.TLSModule.xml
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.TerrainModule.dll.mdb
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.TerrainModule.xml
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.TerrainPhysicsModule.dll.mdb
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.TerrainPhysicsModule.xml
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.TextRenderingModule.dll.mdb
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.TextRenderingModule.xml
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.TilemapModule.dll.mdb
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.TilemapModule.xml
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.TimelineModule.dll.mdb
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.TimelineModule.xml
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.UIModule.dll.mdb
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.UIModule.xml
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.UIElementsModule.dll.mdb
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.UIElementsModule.xml
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.UNETModule.dll.mdb
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.UNETModule.xml
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.UmbraModule.dll.mdb
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.UmbraModule.xml
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.UnityAnalyticsModule.dll.mdb
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.UnityAnalyticsModule.xml
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.UnityConnectModule.dll.mdb
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.UnityConnectModule.xml
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.UnityWebRequestModule.dll.mdb
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.UnityWebRequestModule.xml
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.UnityWebRequestAssetBundleModule.dll.mdb
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.UnityWebRequestAssetBundleModule.xml
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule.dll.mdb
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.UnityWebRequestAudioModule.xml
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.UnityWebRequestTextureModule.dll.mdb
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.UnityWebRequestTextureModule.xml
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.UnityWebRequestWWWModule.dll.mdb
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.UnityWebRequestWWWModule.xml
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.VRModule.dll.mdb
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.VRModule.xml
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.VehiclesModule.dll.mdb
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.VehiclesModule.xml
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.VideoModule.dll.mdb
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.VideoModule.xml
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.WindModule.dll.mdb
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.WindModule.xml
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.XRModule.dll.mdb
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.XRModule.xml
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/Unity.Locator.dll.mdb
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.UI.dll.mdb
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.UI.xml
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.Timeline.dll.mdb
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.Timeline.xml
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.Networking.dll.mdb
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.Networking.xml
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.dll.mdb
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.GoogleAudioSpatializer.xml
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.HoloLens.dll.mdb
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.HoloLens.xml
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.SpatialTracking.dll.mdb
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.SpatialTracking.xml
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.Analytics.dll.mdb
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/UnityEngine.StandardEvents.dll.mdb
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/edgard/Desktop/Trabajos de Santiago/AnimalSoul/Animal Soul Prototype/Temp/bin/Debug/Unity.IvyParser.dll.mdb
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\Assembly-CSharp.dll
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\Assembly-CSharp.pdb
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\Boo.Lang.dll
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\mscorlib.dll
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\System.Core.dll
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\System.dll
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\System.Runtime.Serialization.dll
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\System.Xml.dll
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\System.Xml.Linq.dll
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\Unity.Locator.dll
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\Unity.PackageManagerUI.Editor.dll
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\Unity.TextMeshPro.dll
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\Unity.TextMeshPro.Editor.dll
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEditor.dll
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEditor.StandardEvents.dll
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.AIModule.dll
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.Analytics.dll
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.AnimationModule.dll
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.ARModule.dll
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.AssetBundleModule.dll
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.AudioModule.dll
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.BaselibModule.dll
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.ClothModule.dll
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.dll
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.ClusterInputModule.dll
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.ClusterRendererModule.dll
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.CoreModule.dll
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.CrashReportingModule.dll
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.DirectorModule.dll
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.dll
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.FacebookModule.dll
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.dll
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.GameCenterModule.dll
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.dll
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.GridModule.dll
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.HoloLens.dll
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.HotReloadModule.dll
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.ImageConversionModule.dll
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.IMGUIModule.dll
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.InputModule.dll
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.JSONSerializeModule.dll
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.LocalizationModule.dll
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.Networking.dll
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.dll
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.ParticleSystemModule.dll
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.dll
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.Physics2DModule.dll
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.PhysicsModule.dll
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.ProfilerModule.dll
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.dll
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.SharedInternalsModule.dll
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.SpatialTracking.dll
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.SpriteMaskModule.dll
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.SpriteShapeModule.dll
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.StandardEvents.dll
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.StreamingModule.dll
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.StyleSheetsModule.dll
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.SubstanceModule.dll
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.TerrainModule.dll
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.dll
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.TextRenderingModule.dll
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.TilemapModule.dll
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.Timeline.dll
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.TimelineModule.dll
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.TLSModule.dll
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.UI.dll
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.UIElementsModule.dll
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.UIModule.dll
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.UmbraModule.dll
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.UNETModule.dll
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.dll
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.UnityConnectModule.dll
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.dll
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.dll
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.dll
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.dll
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.dll
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.VehiclesModule.dll
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.VideoModule.dll
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.VRModule.dll
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.WindModule.dll
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.XRModule.dll
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityScript.dll
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityScript.Lang.dll
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\Unity.Cecil.dll
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\Unity.SerializationLogic.dll
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\Unity.DataContract.dll
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\ExCSS.Unity.dll
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\Unity.Legacy.NRefactory.dll
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\Boo.Lang.Parser.dll
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\Boo.Lang.Compiler.dll
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\Unity.IvyParser.dll
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\Boo.Lang.PatternMatching.dll
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\Boo.Lang.Useful.dll
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\Unity.CecilTools.dll
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.xml
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEditor.xml
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.AIModule.xml
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.ARModule.xml
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.AccessibilityModule.xml
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.AnimationModule.xml
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.AssetBundleModule.xml
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.AudioModule.xml
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.BaselibModule.xml
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.ClothModule.xml
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.CloudWebServicesModule.xml
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.ClusterInputModule.xml
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.ClusterRendererModule.xml
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.CoreModule.xml
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.CrashReportingModule.xml
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.DirectorModule.xml
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.FacebookModule.xml
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.FileSystemHttpModule.xml
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.GameCenterModule.xml
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.GridModule.xml
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.HotReloadModule.xml
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.IMGUIModule.xml
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.ImageConversionModule.xml
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.InputModule.xml
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.JSONSerializeModule.xml
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.LocalizationModule.xml
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.ParticleSystemModule.xml
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.ParticlesLegacyModule.xml
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.PerformanceReportingModule.xml
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.PhysicsModule.xml
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.Physics2DModule.xml
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.ProfilerModule.xml
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.ScreenCaptureModule.xml
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.SharedInternalsModule.xml
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.SpriteMaskModule.xml
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.SpriteShapeModule.xml
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.StreamingModule.xml
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.StyleSheetsModule.xml
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.SubstanceModule.xml
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.TLSModule.xml
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.TerrainModule.xml
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.TerrainPhysicsModule.xml
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.TextRenderingModule.xml
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.TilemapModule.xml
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.TimelineModule.xml
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.UIModule.xml
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.UIElementsModule.xml
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.UNETModule.xml
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.UmbraModule.xml
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.UnityAnalyticsModule.xml
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.UnityConnectModule.xml
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.UnityWebRequestModule.xml
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.UnityWebRequestAssetBundleModule.xml
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.UnityWebRequestAudioModule.xml
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.UnityWebRequestTextureModule.xml
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.UnityWebRequestWWWModule.xml
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.VRModule.xml
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.VehiclesModule.xml
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.VideoModule.xml
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.WindModule.xml
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.XRModule.xml
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.UI.xml
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.Timeline.xml
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.Networking.xml
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.GoogleAudioSpatializer.xml
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.HoloLens.xml
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\Temp\bin\Debug\UnityEngine.SpatialTracking.xml
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\obj\Debug\Assembly-CSharp.csproj.CopyComplete
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\obj\Debug\Assembly-CSharp.dll
+E:\Prototypes\20-10-2018\Animal Soul Prototype-1\obj\Debug\Assembly-CSharp.pdb
